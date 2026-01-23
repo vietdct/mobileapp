@@ -23,7 +23,11 @@ body{
     Meiryo,
     sans-serif;
     text-align: center;
-    background-image: url(../img/xxxxxxxx.JPG);
+      background-image: url("../img/imagetop.jpg"); 
+    background-size: cover;        
+  background-repeat: no-repeat; 
+  background-position: center;   
+  background-attachment: fixed; 
     background-size: cover;
     overflow: hidden;
 }
@@ -157,4 +161,5 @@ footer> p {
     body{
         background-size: auto 1000px;
     }
+
 }
